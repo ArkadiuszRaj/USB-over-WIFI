@@ -1,0 +1,27 @@
+Comment,Designator,Footprint,LCSC Part #,LCSC status
+DC-005 5.5/2.1,J1,footprint_from_LCSC_part,C381116,confirmed
+AO3401A,"Q1,Q2",SOT-23,C15127,confirmed
+MMBT3906,Q3,SOT-23,,select
+BZT52C10,D1,D_SOD-123,,select
+BZT52C5V6,D2,D_SOD-123,,select
+100k,"R1,R7,R10,R11,R12,R13",R_0603_1608Metric,C25803,confirm
+4k7,R2,R_0603_1608Metric,C23162,confirm
+3k3,R3,R_0603_1608Metric,C22978,confirm
+220u/10V,"C1,C9",CP_Elec_6.3x7.7,,select
+100n,"C2,C6,C8,C10,C11",C_0603_1608Metric,C14663,confirm
+AMS1117-3.3,U2,SOT-223-3_TabPin2,C6186,confirmed
+10u,"C3,C5",C_0805_2012Metric,C15850,confirm
+22u,C4,C_0805_2012Metric,C45783,confirm
+ESP32-S3-WROOM-1-N16R8,U1,ESP32-S3-WROOM-1,C2913202,confirmed
+10k,"R4,R5,R8",R_0603_1608Metric,C25804,confirm
+1u,C7,C_0603_1608Metric,C15849,confirm
+RESET,SW1,footprint_from_LCSC_part,,select
+BOOT,SW2,footprint_from_LCSC_part,,select
+TPS2553DBVR,U3,SOT-23-6,C55266,confirmed
+24k9 1%,R6,R_0603_1608Metric,,select
+1k,"R9,R14,R15,R16,R17,R18,R19",R_0603_1608Metric,C21190,confirm
+USBLC6-2SC6,U4,SOT-23-6,C7519,confirm
+USB-A receptacle SMD,J2,footprint_from_LCSC_part,C718023,confirm
+LED green (3V3),D3,LED_0603_1608Metric,,select
+LED yellow (target power),D4,LED_0603_1608Metric,,select
+LED red (status),D5,LED_0603_1608Metric,,select
